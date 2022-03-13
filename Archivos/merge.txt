@@ -1,0 +1,1 @@
+al agregar archivos a la carpeta ya permite subirla al repositorio
